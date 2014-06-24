@@ -1,0 +1,9 @@
+.idea/*
+*.pyc
+*.sqlite
+*.rdb
+.codeintel/*
+*.log
+.directory
+.DS_Store
+*.egg-info
