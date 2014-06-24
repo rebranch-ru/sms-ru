@@ -4,7 +4,7 @@ from setuptools import setup
 
 
 setup(
-    name='rebranch_sms_ru',
+    name='rebranch-sms-ru',
     version=0.1,
     long_description=open(join(dirname(__file__), 'README.md')).read(),
     author='Rebranch',
